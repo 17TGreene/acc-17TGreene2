@@ -1,0 +1,17 @@
+
+['79', '24', '73', '41', '38', '97', '81', '82', '87', '41']
+
+ Frequency of 79:1
+ Frequency of 24:1
+ Frequency of 73:1
+ Frequency of 41:2
+ Frequency of 38:1
+ Frequency of 97:1
+ Frequency of 81:1
+ Frequency of 82:1
+ Frequency of 87:1
+ Mode: 41
+ Mean: 64.3
+ Median:76.0
+ Range:73
+*******************************************************
