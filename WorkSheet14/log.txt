@@ -1,0 +1,14 @@
+Swapped 5 and 1. Marker: 0
+List: [1, 7, 3, 6, 2, 4, 5]
+Swapped 7 and 2. Marker: 1
+List: [1, 2, 3, 6, 7, 4, 5]
+Swapped 3 and 3. Marker: 2
+List: [1, 2, 3, 6, 7, 4, 5]
+Swapped 6 and 4. Marker: 3
+List: [1, 2, 3, 4, 7, 6, 5]
+Swapped 7 and 5. Marker: 4
+List: [1, 2, 3, 4, 5, 6, 7]
+Swapped 6 and 6. Marker: 5
+List: [1, 2, 3, 4, 5, 6, 7]
+Swapped 7 and 7. Marker: 6
+List: [1, 2, 3, 4, 5, 6, 7]
